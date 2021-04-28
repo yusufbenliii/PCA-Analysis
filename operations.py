@@ -2,10 +2,11 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-'''In this file numpy library is used for creating numbers and also creating arrays
+'''
+In this file numpy library is used for creating numbers and also creating arrays
 because when I try to do calculations with python defaults I realized that there are
-little differences on numbers, those differences might cause the errors that's why I prefer to use numpy.'''
-'''Addition to numpy the seaborn and matplotlib libraries were used.
+little differences on numbers, those differences might cause the errors that's why I prefer to use numpy.
+Addition to numpy the seaborn and matplotlib libraries were used.
 These libraries just for plotting the graph's of the result.
 '''
 
